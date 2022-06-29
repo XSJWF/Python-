@@ -1,7 +1,1 @@
-# Hello-World
-我的第一个GitHub仓库
 
-adfaokadkfafafafadsaqf
-fase
-fa
-fa
